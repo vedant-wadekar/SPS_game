@@ -1,1 +1,1 @@
-#Stone,Paper,Siccor Game. 
+# Stone,Paper,Siccor Game. 
